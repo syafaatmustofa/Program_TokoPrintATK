@@ -27,7 +27,7 @@ This application helps manage stationery and printing shop operations such as:
 
 ## 🖥️ Application Preview
 
-![Preview Aplikasi]([https://i.imgur.com/abc123.png](https://github.com/syafaatmustofa/Program_TokoPrintATK/blob/main/tampilan_python.png)
+![Preview Aplikasi]([https://i.imgur.com/abc123.png](https://imgur.com/a/POawNpQ)
 
 ---
 
