@@ -1,0 +1,22 @@
+[
+    {
+        "nama": "Bulpen",
+        "harga": 2000,
+        "stok": 160
+    },
+    {
+        "nama": "Pensil",
+        "harga": 1500,
+        "stok": 30
+    },
+    {
+        "nama": "Penggaris",
+        "harga": 5000,
+        "stok": 15
+    },
+    {
+        "nama": "Karton",
+        "harga": 2000,
+        "stok": 10
+    }
+]
